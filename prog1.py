@@ -1,4 +1,6 @@
->>> a=float(1.6)
->>> a
->>> b=float(1)
->>> b
+a=1
+b=1
+c=a+b
+print(c)
+
+
